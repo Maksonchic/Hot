@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: maksim
+Build-Jdk: 11.0.3
+Implementation-Title: HotelAlpha
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: ru.probe
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/HotelAlpha
+Created-By: Maven Integration for Eclipse
+

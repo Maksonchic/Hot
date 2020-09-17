@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@45.133.18.174_hotel_test" read-only="true" single-connection="true" uuid="a236fba7-ed39-4972-86b0-589cde887b06">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <schema-control>FORBID</schema-control>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://45.133.18.174:3306/db_hotel_test</jdbc-url>
+      <time-zone>UTC</time-zone>
+    </data-source>
+  </component>
+</project>
